@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Dynamic IT professional with a proven background in system support, driven by a passion for tackling the dynamic challenges of Cybersecurity. Bringing comprehensive experience in maintaining and optimizing system infrastructures, I am eager to transition into the field of cybersecurity.Seeking opportunities to leverage existing skills while acquiring new ones in a role that combines technical expertise with a proactive approach to cybersecurity challenges.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Dynamic IT professional with a proven background in system support, driven by a passion for tackling the dynamic challenges of Cybersecurity. Bringing comprehensive experience in maintaining and optimizing system infrastructures, I am eager to transition into the field of cybersecurity.Seeking opportunities to leverage existing skills while acquiring new ones in a role that combines technical expertise with a proactive approach to cybersecurity challenges.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
