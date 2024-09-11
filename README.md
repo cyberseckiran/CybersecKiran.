@@ -1,12 +1,9 @@
 # Hello, I'm Kiran Scaria
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Dynamic IT professional with a proven background in system support, driven by a passion for tackling the dynamic challenges of Cybersecurity. Bringing comprehensive experience in maintaining and optimizing system infrastructures, I am eager to transition into the field of cybersecurity.Seeking opportunities to leverage existing skills while acquiring new ones in a role that combines technical expertise with a proactive approach to cybersecurity challenges.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Dynamic IT professional with a proven background in system support, driven by a passion for tackling the dynamic challenges of Cybersecurity. Bringing comprehensive experience in maintaining and optimizing system infrastructures, I am eager to transition into the field of cybersecurity.Seeking opportunities to leverage existing skills while acquiring new ones in a role that combines technical expertise with a proactive approach to cybersecurity challenges.
 
